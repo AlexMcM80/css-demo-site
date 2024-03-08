@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+This is my demo website as I have changed the placement of the header and some of the colors to make it more appealing, added the accessibility features so that if the browser doesn't have the correct font there is multiple to work with and the pictures all have their alt set up for disabled people to properly understand the site.
